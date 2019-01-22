@@ -1,0 +1,16 @@
+PODS:
+  - FloatRatingView (3.0)
+
+DEPENDENCIES:
+  - FloatRatingView (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FloatRatingView
+
+SPEC CHECKSUMS:
+  FloatRatingView: 0f7b45733124516ac6b8f535e5b5f4fa2e122180
+
+PODFILE CHECKSUM: 4befe94708c98ff563edc531f935641de0d5800f
+
+COCOAPODS: 1.5.3
